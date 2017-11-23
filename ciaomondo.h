@@ -1,5 +1,3 @@
-(Ciao mondo)
-(C)
 N10 G0 Z2
 N20 G0 X13.333 Y0
 N30 G1 Z-1
